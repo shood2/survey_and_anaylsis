@@ -1,0 +1,29 @@
+[
+  {
+    "question": "How are you?",
+    "hasAnswers": true,
+    "answers": ["good", "okay", "bad"],
+    "answerType":"NA"
+  },
+
+  {
+    "question":"What is your name?",
+    "hasAnswers" : false,
+    "answers": [],
+    "answerType":"string"
+  },
+
+  {
+    "question":"How old are you?",
+    "hasAnswers" : false,
+    "answers": [],
+    "answerType": "int"
+  },
+
+  {
+    "question":"What is your favorite color?",
+    "hasAnswers": false,
+    "answers" : [],
+    "answerType": "string"
+  }
+]
